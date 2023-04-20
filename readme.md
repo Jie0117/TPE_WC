@@ -37,7 +37,7 @@
 
 **ERD的說明**
 
-![](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.001.jpeg)
+![](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.001.jpeg)
 
 在最一開始的資料中Administration type type2  section Village 都是合併在Toilet的資料項目，由於Administration type type2 section village grade的資料項目有很多重複且皆完全相依於toilet的主鍵（To\_ID），固將這些欄位拉出來做第二正規化，而section資料的重複是完全相依於Village，跟主鍵是屬於遞移相依的關係（一個Village會對應到一個section)，故做第三正規化
 
