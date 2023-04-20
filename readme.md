@@ -50,44 +50,44 @@
 
 **使用者介面**
 
-![](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.002.jpeg)
+![](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.002.jpeg)
 
 開始畫面:點擊中間的logo便可以進到下個畫面囉!
 
-![](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.003.jpeg)
+![](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.003.jpeg)
 
 註冊頁面:沒有帳號密碼，就可以直接在這裡註冊喔!如果已經有了就按下面you have account click here to login page進到登入頁面。
 
-![](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.004.jpeg)
+![](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.004.jpeg)
 
 登入頁面:直接輸入帳號密碼便可以直接進去應用程式囉!若是還沒有帳號密碼就按下面的No account? Sign up here進入註冊頁面重新註冊。
 
 ![一張含有 地圖 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.005.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.005.jpeg)
 
 主頁面:可以篩選廁所的類別，而且可以離自己有多遠(單位:m)，有定位知道自己目前得位置，可以點擊下方任一廁所入到廁所資訊。
 
 
 ![一張含有 桌 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.006.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.006.jpeg)
 
 廁所資訊:可以看到廁所的基本資料，可以知道廁所評分多少並且可以按「評分」到評分頁面，還可以看到目前是否可以使用有無故障或是按「報修」到報修頁面，按「去這裡」連結google map進行廁所導航。
 
 ![一張含有 地圖 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.007.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.007.jpeg)
 
 Google map:從廁所資訊會跳到google map，這裡可以直接幫使用者定位並且導航至使用者想去的廁所。
 
 ![一張含有 文字 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.008.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.008.jpeg)
 
 評分頁面:在這裡可以對廁所進行評分，0.5分為一個單位，分數會傳到資料庫，並且平均後會重新傳到廁所資訊，給使用者參考。
 
-![](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.009.jpeg)
+![](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.009.jpeg)
 
 報修頁面:可以在這裡簡述廁所哪裡故障，會傳給管理者看到，而當成工發送報修，這間廁所的報修數量就會加一，並顯示在廁所資訊頁面。
 
@@ -97,13 +97,13 @@ Google map:從廁所資訊會跳到google map，這裡可以直接幫使用者�
 
 ![一張含有 文字 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.010.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.010.jpeg)
 
 廁所資訊:可以看到一間廁所所有的資訊，下面三個按鈕都可以做使用。
 
 ![一張含有 文字 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.011.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.011.jpeg)
 
 篩選頁面:可以使用下拉式選單選出想要的里和區，然後也可以使用關鍵字搜尋廁所，按「新增」可以跳到新增頁面，按「報修」可以看到報修頁面。
 
@@ -111,19 +111,19 @@ Google map:從廁所資訊會跳到google map，這裡可以直接幫使用者�
 
 ![一張含有 文字 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.012.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.012.jpeg)
 
 報修業面(2):這裡是一間廁所的所有報修資訊，可以在這裡一次選一個或是一次選多個刪除，比如說修好了，或是使用者亂按報修，我們都能從這裏把報修資訊做刪除。
 
 ![一張含有 文字, 桌 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.013.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.013.jpeg)
 
 新增頁面:動態的下拉式選單，可以簡單的選種哪個區哪個里，方便管理者做新增廁所。
 
 ![一張含有 文字 的圖片
 
-自動產生的描述](Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.014.jpeg)
+自動產生的描述](https://github.com/Jie0117/TPE_WC/blob/main/img/Aspose.Words.d64ce0d0-2000-4d29-b308-4597e9a21725.014.jpeg)
 
 報修頁面(1):會跳出所有報修的訊息，可以讓管理者一次看到所有報修資訊。
 
